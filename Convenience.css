@@ -1,0 +1,11 @@
+body {background-color: Aqua;
+}
+p { font-family: Arial;
+    font-size:60%;
+}
+img.resize {
+  max-width:50%;
+  max-height:50%;
+ 
+}
+  
